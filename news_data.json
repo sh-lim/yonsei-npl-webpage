@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-02-06",
+    "category": "발표",
+    "clean_title": "Detector Workshop (Lim, SangHoon, 2026. 02. 06.)",
+    "paper_title": "Development and Performance of AstroPix for the ePIC BIC Detector",
+    "paper_url": "https://indico.ibs.re.kr/event/1168/contributions/8255/"
+  },
+  {
     "url": "https://npl.pusan.ac.kr/bbs/npl/13275/1751618/artclView.do",
     "date": "2025-12-18",
     "author": "임상훈",
